@@ -1,6 +1,9 @@
-# Designer Brainstorm Suite
+# Designer Brainstorm kit -- The ultimate PM simulator for designers
 
 Four skills for designers who need to think like a PM — without waiting for one.
+
+<img width="600" height="712" alt="Screenshot 2026-04-06 at 10 15 24 PM" src="https://github.com/user-attachments/assets/e2ee2eea-0e41-4b93-8a7e-ebe15c8e65e3" />
+
 
 **Works with any AI.** Use as [Claude Code skills](#installation) for the full experience (persistent context, chained workflow, saved artifacts), or copy the [standalone prompt](./PROMPT.md) into any AI chat for instant PM-mode thinking.
 
